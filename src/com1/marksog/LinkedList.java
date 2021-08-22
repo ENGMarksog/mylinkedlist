@@ -19,6 +19,7 @@ public class LinkedList {
             list = list.next;
         }
         System.out.println("null");
+        System.out.println("testing");
     }
     public static void main(String[] args) {
 	LinkedList n = new LinkedList();
